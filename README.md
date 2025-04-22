@@ -5,7 +5,7 @@
 じしˍ,)ノ
 
 
-# About me 🪼
+# About me 
 I'm an Engineering student at the University of Waterloo, Canada currently interning at Untether AI. 
 
 I'm learning more about React and JavaScript to create a new (and prettier) personal portfolio.
