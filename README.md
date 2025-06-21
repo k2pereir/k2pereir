@@ -6,9 +6,9 @@
 
 
 # About me 
-I'm an Engineering student at the University of Waterloo, Canada currently interning at Untether AI. 
+I'm an Engineering student at the University of Waterloo, Canada currently interning at AMD. 
 
-I'm learning more about React and JavaScript to create a new (and prettier) personal portfolio.
+I'm learning more about Blender and React to create a new (and prettier!) personal portfolio. 
 I'm also hoping to learn more about computer vision and start working on some hardware projects!! 
 
 ✉️ You can reach at k2pereir@uwaterloo.ca <br>
