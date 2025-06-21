@@ -11,7 +11,7 @@ I'm an Engineering student at the University of Waterloo, Canada currently inter
 I'm learning more about Blender and React to create a new (and prettier!) personal portfolio. 
 I'm also hoping to learn more about computer vision and start working on some hardware projects!! 
 
-✉️ You can reach at k2pereir@uwaterloo.ca <br>
+✉️ You can reach me at k2pereir@uwaterloo.ca <br>
 🤝 Or connect with me on [LinkedIn](www.linkedin.com/in/kaelyn-pereira)
 
 <!--
